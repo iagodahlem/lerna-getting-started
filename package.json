@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Iago Dahlem Lorensini <iagodahlemlorensini@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
   "devDependencies": {
     "lerna": "^2.5.1"
   }
