@@ -1,0 +1,10 @@
+{
+  "name": "lerna-getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Iago Dahlem Lorensini <iagodahlemlorensini@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
+}
